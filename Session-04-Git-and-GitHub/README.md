@@ -174,6 +174,7 @@ Emilie | Diesbourg | Biology
 Noah | Britt | PNB
 Elizabeth | Phillips | PNB
 Claire | Gillespie | Chemistry
+Ana | Stanciu | Chemical Biology
 
 #### Workflow
 
